@@ -32,8 +32,9 @@
 
 [params]
   [params.theme_config]
-    appearance        = "auto"
+    appearance        = "dark"
     back_home_text    = ".."
     date_format       = "2006-01-02"
     isListGroupByDate = false
     isShowFooter      = true
+    show_description = true
